@@ -1,0 +1,16 @@
+C:\Users\dgardner\documents\visual studio 2013\Projects\D3cSharpNetApplication\D3cSharpNetApplication\bin\Release\D3cSharpNetApplication.exe.config
+C:\Users\dgardner\documents\visual studio 2013\Projects\D3cSharpNetApplication\D3cSharpNetApplication\bin\Release\D3cSharpNetApplication.exe.manifest
+C:\Users\dgardner\documents\visual studio 2013\Projects\D3cSharpNetApplication\D3cSharpNetApplication\bin\Release\D3cSharpNetApplication.application
+C:\Users\dgardner\documents\visual studio 2013\Projects\D3cSharpNetApplication\D3cSharpNetApplication\bin\Release\D3cSharpNetApplication.exe
+C:\Users\dgardner\documents\visual studio 2013\Projects\D3cSharpNetApplication\D3cSharpNetApplication\bin\Release\D3cSharpNetApplication.pdb
+C:\Users\dgardner\documents\visual studio 2013\Projects\D3cSharpNetApplication\D3cSharpNetApplication\bin\Release\RocketMVSP.dll
+C:\Users\dgardner\documents\visual studio 2013\Projects\D3cSharpNetApplication\D3cSharpNetApplication\obj\Release\D3cSharpNetApplication.CustList.resources
+C:\Users\dgardner\documents\visual studio 2013\Projects\D3cSharpNetApplication\D3cSharpNetApplication\obj\Release\D3cSharpNetApplication.CustomerSearch.resources
+C:\Users\dgardner\documents\visual studio 2013\Projects\D3cSharpNetApplication\D3cSharpNetApplication\obj\Release\D3cSharpNetApplication.Invoice.resources
+C:\Users\dgardner\documents\visual studio 2013\Projects\D3cSharpNetApplication\D3cSharpNetApplication\obj\Release\D3cSharpNetApplication.Invoices.resources
+C:\Users\dgardner\documents\visual studio 2013\Projects\D3cSharpNetApplication\D3cSharpNetApplication\obj\Release\D3cSharpNetApplication.Properties.Resources.resources
+C:\Users\dgardner\documents\visual studio 2013\Projects\D3cSharpNetApplication\D3cSharpNetApplication\obj\Release\D3cSharpNetApplication.csproj.GenerateResource.Cache
+C:\Users\dgardner\documents\visual studio 2013\Projects\D3cSharpNetApplication\D3cSharpNetApplication\obj\Release\D3cSharpNetApplication.exe.manifest
+C:\Users\dgardner\documents\visual studio 2013\Projects\D3cSharpNetApplication\D3cSharpNetApplication\obj\Release\D3cSharpNetApplication.application
+C:\Users\dgardner\documents\visual studio 2013\Projects\D3cSharpNetApplication\D3cSharpNetApplication\obj\Release\D3cSharpNetApplication.exe
+C:\Users\dgardner\documents\visual studio 2013\Projects\D3cSharpNetApplication\D3cSharpNetApplication\obj\Release\D3cSharpNetApplication.pdb
